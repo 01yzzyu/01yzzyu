@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 + 💡 I'm profoundly interested in **3D Computer Vision** and **Diffusion-based GenAI**(e.g. 2D/3D AIGC, Medical Image Analysis and Digital Human).
 + 🏀 I am a big fan of the **Los Angeles Lakers**!
 + 🌱 I am also keen on **Traveling**, **Basketball**, and **Reading**!
-+ In my past research, I am most interested in 2D/3D AIGC. In the short term, I hope to make a controllable and editable generative model to better understand multimodal input, not just prompt and visual encoder. My long-term research goal is to develop intelligent machines that can actively perceive, analyze and interpret human states, behaviors and potential motivations in dynamic scenes.
++ In my past research, I am most interested in 2D/3D AIGC. In the short term, I hope to make a controllable and editable generative model to better understand multimodal input, not just prompt and visual encoder. 、
++ My long-term research goal is to develop intelligent machines that can actively perceive, analyze and interpret human states, behaviors and potential motivations in dynamic scenes.
 + 📫 Contact me: [**Email**](mailto:yangzhy21@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01yzzyu&layout=compact&theme=aura&cache_seconds=1800)
