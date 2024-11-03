@@ -21,6 +21,7 @@ Here are some ideas to get you started:
 + 🌱 I am also keen on **Traveling**, **Basketball**, and **Swimming!**
 + In my past research, I am most interested in **2D/3D AIGC**. In the short term, I hope to make a Controllable and Editable Generative Model to better understand Multimodal input, not just Prompt and Visual Encoder. 
 + My long-term research Goal is to develop Intelligent Machines that can actively perceive, analyze and interpret human states, behaviors and potential motivations in dynamic scenes.
++ Looking for a **PhD position** now.
 + 📫 Contact me: [**Email**](mailto:yangzhy21@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=01yzzyu&layout=compact&theme=aura&cache_seconds=1800)
