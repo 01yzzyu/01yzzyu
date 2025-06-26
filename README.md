@@ -15,10 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-+ 😄 My name is Zhongyu Yang and a final year undergraduate student at [School of Mathematics and Statistics](https://mathenglish.lzu.edu.cn/), [Lanzhou University](https://en.lzu.edu.cn/), majoring in Mathematics(the basic theory class), minoring Administrative Management.
-+ 💡 I'm profoundly interested in **Computer Vision** and **Diffusion-based GenAI**(e.g. **2D/3D AIGC**, **Medical Image Analysis** and **Digital Human**). Recently, I focused on enhancing MLLM's generation and understanding via multi-prompts.
++ 😄 I am Zhongyu Yang and working as a Remote Research Intern at Vision-CAIR, King Abdullah University of Science and Technology (KAUST), supervised by Mohamed Elhoseiny. Prior to that, I earned a Bachelor of Science degree with a major in Mathematics and a minor in Management from Lanzhou University, China.
++ 💡 I'm profoundly interested in **Multimodal Large Language Model** and **Diffusion-based GenAI**(e.g. **2D/3D AIGC**, **Medical Image Analysis** and **Digital Human**). Recently, I focused on enhancing MLLM's reasoning via multi-prompts and Multi-modal token compression for efficient modeling.
 + 🏀 I am a big fan of the **Los Angeles Lakers**!
-+ In my past research, I am most interested in **2D/3D AIGC**. In the short term, I hope to make a Controllable and Editable Generative Model to better understand Multimodal input, not just Prompt and Visual Encoder. 
++ In my past research, I am most interested in **2D/3D AIGC**. In the short term, I hope to make a Controllable and Editable Generative Model to better understand Multimodal input, not just the Prompt and Visual Encoder. 
 + My long-term research Goal is to develop Intelligent Machines that can actively perceive, analyze, and interpret human states, behaviors, and potential motivations in dynamic scenes.
 + Looking for a **PhD position** and **Research Intern position** now.
 + 📫 Contact me: [**Email**](mailto:yangzhy21@gmail.com)
