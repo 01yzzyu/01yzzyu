@@ -19,4 +19,7 @@ Here are some ideas to get you started:
 - 💡 I am broadly interested in **Multimodal Large Language Models**, **Omni Foundation Models**, **Multimodal Multi-Agent Systems**, and **GenAI**. Recently, my work focuses on building agentic and self-evolving multimodal systems for deep video and audio-visual understanding.
 - 🏀 I am a big fan of the **Los Angeles Lakers**!
 - My long-term research goal is to develop intelligent machines that can actively perceive, reason about, and communicate over dynamic real-world scenes across vision, audio, language, and action.
+
+- 🤝 Welcome to reach out for research collaborations, discussions, or exciting ideas around multimodal and omni foundation models!
+
 - 📫 Contact me: [**Email**](mailto:yangzhy21@gmail.com)
